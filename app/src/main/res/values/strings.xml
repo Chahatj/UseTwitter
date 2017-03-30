@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwitterUse</string>
+    <string name="click">Click on Searchbar to search tweets by hashtag</string>
+</resources>
